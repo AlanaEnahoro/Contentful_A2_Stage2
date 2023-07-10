@@ -1,0 +1,42 @@
+#place-for-content-details img{
+    width: 350px;
+    height: 400px;
+    object-fit: cover;
+    margin: 10px;
+    border-radius: 20px;
+    border: 5px solid black;
+   
+}
+
+#place-for-content-details div {
+    display: flex;
+    margin: auto;
+    margin-left: 50px;
+   
+}
+
+#place-for-content-details .cover-image{
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+    background-color: white;
+    border: 10px solid bisque;
+    border-radius: 50px;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    color: bisque;
+    text-transform: uppercase;
+    text-decoration: underline;
+    
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: bisque;
+    padding: 15px;
+    font-size: 50px;
+    margin: 7%;
+}
